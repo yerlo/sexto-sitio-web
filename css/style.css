@@ -10,7 +10,7 @@ div.contenedor{
 	flex-direction:row;   
 	padding:20px; 
 }
-div#faraday{
+img#faraday{
 	display:flex;
     font-size:30px; 
 }
@@ -20,8 +20,14 @@ div.contenedor-dos{
 	justify-content:center; 
 	flex-direction:row;   
 	padding:30px;
+	height:48px; 
 	  
 }
 div.secundario{
 	width:100px; 
-}	
+}
+ul.contenedor-lateral{
+	padding:15px;
+	margin:10px;
+	height:50px; 
+}
